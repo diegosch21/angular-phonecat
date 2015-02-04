@@ -11,7 +11,8 @@ exports.config = {
 
   chromeOnly: true,
 
-  baseUrl: 'http://localhost:8000/',
+  //baseUrl: 'http://localhost:8000/',
+  baseUrl: 'http://localhost/ejemplos/angular/angular-phonecat/',
 
   framework: 'jasmine',
 
